@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">Smart Contact</string>
+  <string name="unknown_error">We are unable to proceed now.</string>
+  <string name="msg_loading">Loading…</string>
+  <string name="msg_network_error">Please Check Your Internet Connection.</string>
+
+  <string name="com_auth0_client_id">7URudP4Z1enb26lRBVonaQRWtoYB9LIL</string>
+  <string name="com_auth0_domain">tapan07.auth0.com</string>
+  <string name="label_login">Login</string>
+
+  <string name="permission_alert_dialog_title">Allow Permission</string>
+  <string name="permission_alert_dialog_message">You cannot proceed without contacts permission, please go to settings to give permission</string>
+</resources>
